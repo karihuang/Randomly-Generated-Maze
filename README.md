@@ -8,3 +8,6 @@ To get through the maze itself, we decided to go with using different keys on th
 
 # Outcome
 This project was able to highlight the four main components we were interested in: on-screen dynamics, design, randomness, and coding. For on-screen dynamics, the Player and the maze walls were able to interact with each other, as well as the Player and the objects left behind in the trail. The project also was related to user input, as the user had to move the Player around. There were also aspects of design, as the organization of the setting for the Player was an important factor. Since this was a maze project, line and space were also very important. As aforementioned, the maze generated each time was random in order to add to the appeal of playing this game multiple times. The unpredictable choices and randomness of the outputted maze with each run built into the random component that we added. Finally, this project added a coding aspect by relying heavily on our programming capabilities, with a complex maze algorithm and effects only made possible through programming. Overall, our team was able to successfully generate a maze game that would be exciting for any user to play.
+
+## Team members
+Kari Huang, Elaine Gao, Mickey Santomartino, Josiah Kim
